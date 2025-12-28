@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
 # views.py
 
 from django.shortcuts import render
@@ -161,14 +162,16 @@ button:hover {
 
 </body>
 </html>
+```
 
 
 # SERVER SIDE PROCESSING:
 <img width="890" height="276" alt="server" src="https://github.com/user-attachments/assets/4c898492-66cf-4586-bc8d-718d60c7e29a" />
+
+# HOMEPAGE:
 <img width="1400" height="800" alt="cuboid_blue_red" src="https://github.com/user-attachments/assets/588f3e18-aed9-4e88-8781-ebc230e0f21b" />
 <img width="1400" height="800" alt="cuboid_blue_red_filled" src="https://github.com/user-attachments/assets/9ae78b05-4eb5-4ac1-8a5d-46c5c0436b54" />
 
-# HOMEPAGE:
 
 # RESULT:
 The program for performing server side processing is completed successfully.
